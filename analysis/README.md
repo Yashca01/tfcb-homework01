@@ -9,7 +9,7 @@
 + [preict_image.py](scripts/predict_image.py)
 
 ## Sample images
-(images/casent_0172345_rhytidoponera_metallica.jpg)
-(images/casent_0191696_camponotus_darwinii.jpg)
-(images/casent_0901788_p_1_high_acanthomyrmex_ferox.jpg)
-(images/casent_0906296_p_1_high_cataglyphis_fortis.jpg)
+![rhytidoponera_metallica](images/casent_0172345_rhytidoponera_metallica.jpg)
+![camponotus_darwinii](images/casent_0191696_camponotus_darwinii.jpg)
+![acanthomyrmex_ferox](images/casent_0901788_p_1_high_acanthomyrmex_ferox.jpg)
+![cataglyphis_fortis](images/casent_0906296_p_1_high_cataglyphis_fortis.jpg)
